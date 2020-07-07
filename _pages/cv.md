@@ -11,37 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Engineering, Hohai University, Nanjing, China, 2012
+* M.S. in HydroInformatics and Water Management, Brandenburg University of Technology, Brandenburg, Germany, 2015
+* Ph.D in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
+  * Tropical Marine Science Institute, National University of Singapore, Singapore
+  * Duties included: Project leader and team member
+  * Supervisor: Professor Shie-Yui Liong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar. 2015 - Sep. 2015: Intern
+  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
+  * Duties included: Prof. Dr.-Ing. Heiko Sieker
+  * Supervisor: Professor Frank Molkenthin
   
-Skills
+Research Interest
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Water resource engineering
+* Modeling and simulation of hydro-climatology processes
+* Climate change impact on the water cycle (e.g. floods and droughts)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ 
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -56,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* AGU membership
