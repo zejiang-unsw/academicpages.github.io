@@ -19,13 +19,17 @@ Work experience
 ======
 * Nov. 2015 - Feb. 2018: Research Assistant/Engineer
   * Tropical Marine Science Institute, National University of Singapore, Singapore
-  * Duties included: Project leader and team member
-  * Supervisor: Professor Shie-Yui Liong
+  * Duties included: 
+    + Involve in Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
+    + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
+  * Supervisor: Prof. Shie-Yui Liong
 
 * Mar. 2015 - Sep. 2015: Intern
   * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
-  * Duties included: Prof. Dr.-Ing. Heiko Sieker
-  * Supervisor: Professor Frank Molkenthin
+  * Duties included:
+    + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
+    + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
+  * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker
   
 Research Interest
 ======
