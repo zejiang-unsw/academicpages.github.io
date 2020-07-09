@@ -1,6 +1,6 @@
 ---
 title: "WASP: Wavelet System Prediction"
-excerpt: "The open-source R package WASP is used for system modelling and prediction.<br/><img src='/images/x_z.tif'>"
+excerpt: "The open-source R package WASP is used for system modelling and prediction.<br/><img src=![]('/images/x_z.tif')>"
 collection: software
 ---
 
