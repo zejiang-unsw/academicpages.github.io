@@ -13,14 +13,14 @@ Education
 ======
 * B.S. in Environmental Engineering, Hohai University, Nanjing, China, 2012
 * M.S. in HydroInformatics and Water Management, Brandenburg University of Technology, Brandenburg, Germany, 2015
-* Ph.D in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021 (expected)
+* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021 (expected)
 
 Work experience
 ======
 * Nov. 2015 - Feb. 2018: Research Assistant/Engineer
   * Tropical Marine Science Institute, National University of Singapore, Singapore
   * Duties included: 
-    + Involve in Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
+    + Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
     + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
   * Supervisor: Prof. Shie-Yui Liong
 
