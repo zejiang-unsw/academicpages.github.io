@@ -3,7 +3,7 @@
 This is Ze Jiang's home on the web. https://zejiang-unsw.github.io/
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and ttribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my esearch works.
+I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and ttribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
 
 
 ## Publications
