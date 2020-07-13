@@ -11,7 +11,7 @@ redirect_from:
 This is Ze Jiang's home on the web. 
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and ttribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
+I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
 
 PROFILE:
 * Highly self-motivated Ph.D. student with demonstrated research expertise modeling hydro-climatology processes. 

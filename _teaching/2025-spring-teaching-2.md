@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Towards transparency and reproducibility of scientific research"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2025-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2025-01-01
 location: "City, Country"
 ---
 
