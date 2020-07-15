@@ -3,10 +3,10 @@
 This is Ze Jiang's personal [homepage](https://zejiang-unsw.github.io/).
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and ttribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
+I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
 
 PROFILE:
-* Highly self-motivated Ph.D. student with demonstrated research expertise modeling hydro-climatology processes. 
+* Highly self-motivated Ph.D. candidate with demonstrated research expertise modeling hydro-climatology processes. 
 * Strong interpersonal skills with a good sense of teamwork.
 * Programming Skills: R, C/C++, VBA, and Python.
 * Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
