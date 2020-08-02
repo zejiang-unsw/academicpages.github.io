@@ -29,4 +29,4 @@ Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van
 
 
 ## For more info
-More info about configuring academicpages can be found in [CV](https://zejiang-unsw.github.io/cv/).
+More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/).

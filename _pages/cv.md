@@ -57,4 +57,5 @@ Teaching
   
 Service and leadership
 ======
+* Contribute to IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
 * AGU membership
