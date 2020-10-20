@@ -58,4 +58,9 @@ Teaching
 Service and leadership
 ======
 * Contribute to IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
-* AGU membership
+
+Membership
+======
+* American Geosciences Union (AGU)
+* Asia Oceania Geosciences Society (AOGS)
+* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)

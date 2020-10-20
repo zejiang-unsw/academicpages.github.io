@@ -1,5 +1,5 @@
 ---
-title: "Drought Prediction over Australia"
+title: "Drought Prediction across Australia"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/drought.png'>"
 collection: portfolio
 ---
