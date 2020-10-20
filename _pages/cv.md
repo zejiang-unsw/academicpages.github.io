@@ -33,8 +33,8 @@ Work experience
   
 Research Interest
 ======
-* Water resource engineering
-* Modeling and simulation of hydro-climatology processes
+* Wavelet based time series decomposition and transformation
+* Hydro-climatological forecasting and downscaling
 * Climate change impact on the water cycle (e.g. floods and droughts)
 
 Publications
