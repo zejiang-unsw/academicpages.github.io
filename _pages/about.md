@@ -36,4 +36,4 @@ Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van
 
 
 ## For more info
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/).
+More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Nov2020.pdf).
